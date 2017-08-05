@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote  name="github"
+           fetch="https://github.com/prem1980" />
+  
+  <default remote="github" sync-j="4" />
+
+  <project name="nav_repo" remote="github" path="nav_repo" revision='refs/tags/v1'/>
+  <project name="img_repo" remote="github" path="img_repo" revision='refs/tags/v1'/>	
+
+</manifest>
+
