@@ -5,8 +5,8 @@
   
   <default remote="github" sync-j="4" />
 
-  <project name="nav_repo" remote="github" path="nav_repo" revision='refs/tags/v1'/>
-  <project name="img_repo" remote="github" path="img_repo" revision='refs/tags/v1'/>	
+  <project name="nav_repo" remote="github" path="nav_repo" revision='refs/tags/v2'/>
+  <project name="img_repo" remote="github" path="img_repo" revision='refs/tags/v2'/>	
 
 </manifest>
 
